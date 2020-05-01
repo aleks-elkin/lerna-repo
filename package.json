@@ -1,0 +1,23 @@
+{
+  "name": "@elkin/monorepo",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "version": "0.1.0",
+  "description": "test lerna publish with travis-ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleks-elkin/lerna-repo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleks-elkin/lerna-repo/issues"
+  },
+  "homepage": "https://github.com/aleks-elkin/lerna-repo#readme"
+}
